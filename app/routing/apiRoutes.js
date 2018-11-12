@@ -1,5 +1,4 @@
-//a POST routes /api/friends - this handles incoming survey results. will also used to handle the compatibility logic
-//Load Data
+//a POST routes /api/friends - handles incoming survey results
 var friendList = require('../data/friends.js');
 
 module.exports = function(app){

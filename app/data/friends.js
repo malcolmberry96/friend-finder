@@ -2,7 +2,7 @@
 //initialize starting with 'dummy' data
 var friendList = [
     {
-      name: 'Malcolm Berry',
+      name: 'Malcolm',
       profilePic: 'https://avatars2.githubusercontent.com/u/39191969?s=400&u=e1dbb0981aeaeb1974cf376fa0ce769a809cf337&v=4',
       scores: [
         "4",
@@ -17,5 +17,5 @@ var friendList = [
         "4"
       ]
     }
-  ]
+  ];
   
