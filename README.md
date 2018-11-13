@@ -32,9 +32,14 @@ his application was designed in order to exhibit my profencies in both back-end 
 * heroku 
 * routing
 
+## Screen Shots
+
+<img width="966" alt="screen shot 2018-11-12 at 6 50 14 pm" src="https://user-images.githubusercontent.com/39191969/48383614-17a12400-e6ac-11e8-8afe-534ae584f10a.png">
 
 
+<img width="961" alt="screen shot 2018-11-12 at 6 50 24 pm" src="https://user-images.githubusercontent.com/39191969/48383620-1b34ab00-e6ac-11e8-90a1-1ab1ca6cfe1a.png">
 
+<img width="961" alt="screen shot 2018-11-12 at 6 50 24 pm" src="https://user-images.githubusercontent.com/39191969/48383620-1b34ab00-e6ac-11e8-90a1-1ab1ca6cfe1a.png">
 
     
 
